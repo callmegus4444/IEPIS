@@ -1,0 +1,79 @@
+Blender
+Brave
+Cirrus High Definition Audio Driver
+Cirrus High Definition Audio Driver Setup
+Cloudflare WARP
+Dell Digital Delivery Services
+Dell SupportAssist
+Dell SupportAssist OS Recovery Plugin for Dell Update
+Dell SupportAssist Remediation
+Dell Update for Windows Universal
+Dynamic Application Loader Host Interface Service
+Epic Games Launcher
+Epic Games Launcher Prerequisites (x64)
+Epic Online Services
+Free Download Manager
+Fusion Service
+Git
+GnuWin32: Bison-2.4.1
+GnuWin32: Flex version 2.5.4a
+Google Chrome
+Intel(R) Arc Software & Drivers
+Intel(R) Icls
+Intel(R) Management Engine Components
+Intel(R) Management Engine Driver
+Intel(R) ME WMI Provider
+Java(TM) SE Development Kit 20.0.2 (64-bit)
+Launcher Prerequisites (x64)
+Microsoft .NET Host - 5.0.17 (x64)
+Microsoft .NET Host - 6.0.28 (x64)
+Microsoft .NET Host - 8.0.11 (x64)
+Microsoft .NET Host FX Resolver - 5.0.17 (x64)
+Microsoft .NET Host FX Resolver - 6.0.20 (x64)
+Microsoft .NET Host FX Resolver - 6.0.28 (x64)
+Microsoft .NET Host FX Resolver - 8.0.11 (x64)
+Microsoft .NET Host FX Resolver - 8.0.6 (x64)
+Microsoft .NET Runtime - 5.0.17 (x64)
+Microsoft .NET Runtime - 6.0.20 (x64)
+Microsoft .NET Runtime - 6.0.28 (x64)
+Microsoft .NET Runtime - 8.0.11 (x64)
+Microsoft .NET Runtime - 8.0.6 (x64)
+Microsoft 365 - en-us
+Microsoft Edge
+Microsoft Edge WebView2 Runtime
+Microsoft OneNote - en-us
+Microsoft Teams Meeting Add-in for Microsoft Office
+Microsoft Update Health Tools
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.36.32532
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.36.32532
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.36.32532
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.36.32532
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.36.32532
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.36.32532
+Microsoft Windows Desktop Runtime - 6.0.28 (x64)
+Microsoft Windows Desktop Runtime - 8.0.11 (x64)
+Microsoft Windows Desktop Runtime - 8.0.6 (x64)
+MobaXterm
+MongoDB 7.0.11 2008R2Plus SSL (64 bit)
+Node.js
+Office 16 Click-to-Run Extensibility Component
+Office 16 Click-to-Run Licensing Component
+OptaneDowngradeGuard
+Python 3.13.5 Add to Path (64-bit)
+Python 3.13.5 Core Interpreter (64-bit)
+Python 3.13.5 Development Libraries (64-bit)
+Python 3.13.5 Documentation (64-bit)
+Python 3.13.5 Executables (64-bit)
+Python 3.13.5 pip Bootstrap (64-bit)
+Python 3.13.5 Standard Library (64-bit)
+Python 3.13.5 Tcl/Tk Support (64-bit)
+Python 3.13.5 Test Suite (64-bit)
+Python Launcher
+Rainmeter
+RstDowngradeGuard
+SmartByte Drivers and Services
+Steam
+TOXIKK
+UltiMaker Cura 5.3.1
+VLC media player
+WinRAR 6.21 (64-bit)

@@ -8,25 +8,25 @@ It provides a combined **risk score (0–100)** and highlights **policy mismatch
 ## 📊 Visual Workflow & Results
 
 ### 1. Security Audit & Control Data
-![Audit Controls](./Screenshot%202025-08-14%20005114.png)  
+![Audit Controls](images/audit-controls.png) 
 *System audit collects registry-based control values (BitLocker, TPM, SmartScreen, etc.) and checks them against expected policies. Mismatches are logged clearly for compliance review.*
 
 ---
 
 ### 2. Model Training Data
-![Training Dataset](./Screenshot%202025-08-12%20193217.png)  
+![Training Dataset](images/training-dataset.png) 
 *TabNet was trained on a synthetic dataset with thousands of system control states and Census hardware features. Each row represents one endpoint configuration with labels for risk classification.*
 
 ---
 
 ### 3. End-to-End Workflow
-![Pipeline Flow](./Screenshot%202025-08-13%20231149.png)  
+![Pipeline Flow](images/workflow.png)
 *The pipeline integrates three layers: GPT-based software risk classification, TabNet ML predictions on control vectors, and a policy compliance checker. All results are merged into a final 0–100 score.*
 
 ---
 
 ### 4. API & Final Score Output
-![API Output](./Screenshot%202025-07-02%20172440.png)  
+![API Output](images/api-output.png)
 *Flask API running locally: returns system risk, ML risk, mismatched controls, compliance rate, and final score in JSON response format.*
 
 ---

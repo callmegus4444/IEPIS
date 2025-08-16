@@ -1,0 +1,17 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Local environment/config
+*.env
+
+# Large model files
+TabnetRfHybrid.h5
+tabnet_encoders.pkl
+
+# Datasets
+C:/SecurityDataset/
+
+# Local-only files
+software_list.txt
